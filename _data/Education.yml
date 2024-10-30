@@ -3,12 +3,8 @@ listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: "Johns Hopkins University Carey Business School, MS in Business Analysis and Risk Management"
-    description:
-      - "Courses: Business Communication, Data Visualization, Python for Data Analysis, Business Analytics, etc"
     date: "Aug. 2024 - Jul. 2025"
   - title: "University of Nottingham, BS in Applied Mathematics"
-    description:
-      - "Courses: Statistical Models & Methods (R studied), Scientific Method (Python studied), Mathematical Finance (Excel studied), Probability Models & Methods, Mathematical Analysis, Linear Math, etc"
     grade: "**GPA**: `3.9/4.0`"
     date: "Sep. 2020 - Jun. 2024"
 
