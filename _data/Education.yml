@@ -1,10 +1,9 @@
-subject: Education
+subject: "Education"
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: University of Nottingham
+  - title: "University of Nottingham"
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Sep. 2020 - Jun. 2024
-
+      - "Design of a method to build a probabilistic generative model"
+      - "Development of model calibration algorithm for cross-domain few-shot learning"
+    date: "Sep. 2020 - Jun. 2024"
